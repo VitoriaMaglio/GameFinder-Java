@@ -8,13 +8,19 @@ REST API developed with **Spring Boot** for the GameFinder project — a game di
 ## 🛠️ Tech Stack
 
 | Technology 
-|---|---|
+
 | Java 
+
 | Spring Boot 
+
 | Spring Web 
+
 | Spring Data JPA 
+
 | Spring HATEOAS 
+
 | H2 Database 
+
 | Maven 
 
 ---
