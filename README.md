@@ -7,15 +7,15 @@ REST API developed with **Spring Boot** for the GameFinder project — a game di
 
 ## 🛠️ Tech Stack
 
-| Technology | Version |
+| Technology 
 |---|---|
-| Java | 17 |
-| Spring Boot | 3.2.5 |
-| Spring Web | — |
-| Spring Data JPA | — |
-| Spring HATEOAS | — |
-| H2 Database | In-memory |
-| Maven | — |
+| Java 
+| Spring Boot 
+| Spring Web 
+| Spring Data JPA 
+| Spring HATEOAS 
+| H2 Database 
+| Maven 
 
 ---
 
