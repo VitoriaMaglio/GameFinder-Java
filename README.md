@@ -2,7 +2,6 @@
 
 REST API developed with **Spring Boot** for the GameFinder project — a game discovery platform where users can browse games by genre, platform, and manage a personal wishlist.
 
-This project was built as part of the **Java Advanced** course and integrates with the [GameFinder Web](https://github.com/joaocarloslima/gamefinder-web) frontend.
 
 ---
 
@@ -168,4 +167,3 @@ src/
 Vitória Valentina Maglio RM 563509
 Marina Magalhães RM 561786
 
-This project is for educational purposes as part of the Java Advanced course.
